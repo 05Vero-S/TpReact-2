@@ -6,7 +6,7 @@ function App() {
     <>
     <section>
     <h1>Hello world!</h1>
-    <MensajeModificado/>
+    <MensajeModificado mensaje="my friend!"/>
 
     </section>
       

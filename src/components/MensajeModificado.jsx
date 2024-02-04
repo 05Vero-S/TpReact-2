@@ -1,9 +1,9 @@
 
 
-const MensajeModificado = () => {
+const MensajeModificado = ({mensaje}) => {
     return (
         <article>
-            <h2>Hello</h2>
+            <h2>Hello {mensaje} </h2>
         </article>
     );
 };
